@@ -88,7 +88,7 @@
 	<feature name="http://api.phonegap.com/1.0/network"/> <!-- Enable internet access permission -->
 
 	<!-- Plugins that enable device-specific native funtionality. See online docs for more -->
-	<plugin name="org.apache.cordova.network-information" spec="0.2.7" source="npm" />  <!-- For checking Internet connectivity -->
+	
 	
 	<!-- Required to access external resources, like APIs and webpages. Wildcard (*) allows access to everything. -->
 	<access origin="*"/>
